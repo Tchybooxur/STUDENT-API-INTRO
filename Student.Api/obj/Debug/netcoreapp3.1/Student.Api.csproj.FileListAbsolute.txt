@@ -1,0 +1,163 @@
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Student.Api.exe
+C:\Projects\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.csprojAssemblyReference.cache
+C:\Projects\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.AssemblyInfoInputs.cache
+C:\Projects\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.AssemblyInfo.cs
+C:\Projects\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.RazorAssemblyInfo.cache
+C:\Projects\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.RazorAssemblyInfo.cs
+C:\Projects\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.TagHelpers.input.cache
+C:\Projects\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.TagHelpers.output.cache
+C:\Projects\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.RazorCoreGenerate.cache
+C:\Projects\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Projects\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Projects\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Projects\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Projects\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Projects\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Projects\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Projects\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.RazorTargetAssemblyInfo.cache
+C:\Projects\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.RazorTargetAssemblyInfo.cs
+C:\Projects\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\staticwebassets\Student.Api.StaticWebAssets.Manifest.cache
+C:\Projects\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\staticwebassets\Student.Api.StaticWebAssets.xml
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.csproj.CopyComplete
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Student.Api.deps.json
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Student.Api.runtimeconfig.json
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Student.Api.runtimeconfig.dev.json
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Student.Api.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Student.Api.pdb
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Student.Api.Views.dll
+C:\Projects\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Student.Api.Views.pdb
+C:\Projects\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.csproj.CoreCompileInputs.cache
+C:\Projects\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.Views.pdb
+C:\Projects\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.dll
+C:\Projects\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.pdb
+C:\Projects\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.genruntimeconfig.cache
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Student.Api.StaticWebAssets.xml
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Student.Api.exe
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Student.Api.deps.json
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Student.Api.runtimeconfig.json
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Student.Api.runtimeconfig.dev.json
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Student.Api.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Student.Api.pdb
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Student.Api.Views.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Student.Api.Views.pdb
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.csproj.AssemblyReference.cache
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.AssemblyInfoInputs.cache
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.AssemblyInfo.cs
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.RazorAssemblyInfo.cache
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.RazorAssemblyInfo.cs
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\staticwebassets\Student.Api.StaticWebAssets.Manifest.cache
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\staticwebassets\Student.Api.StaticWebAssets.Pack.cache
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Student.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Student.Api.props
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Student.Api.props
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Student.Api.props
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.TagHelpers.input.cache
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.TagHelpers.output.cache
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.RazorCoreGenerate.cache
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.RazorTargetAssemblyInfo.cs
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.Views.pdb
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.csproj.CopyComplete
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.dll
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.pdb
+C:\Users\User\Documents\TCHY DOCUMENTS\C# PROJECTS\Student.Api\Student.Api\obj\Debug\netcoreapp3.1\Student.Api.genruntimeconfig.cache
